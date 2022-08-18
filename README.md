@@ -12,6 +12,7 @@ Python Version used: 3.10
 Packages used:
 - pygsheets
 - telebot
+- pytz
 
 
 ---
