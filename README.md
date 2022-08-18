@@ -61,5 +61,5 @@ Step 4: Update the service file with your own spreadsheet
 
 Step 5: Update the column values where your data is supposed to show
 
-Step 6: Run the program by opening main1.py file and pressing CTRL + F5, and check if your bot works by
-        Logging in and out through using your Telegram Bot, the values should appear in your spreadsheet
+Step 6: Run the program by opening main1.py file and pressing CTRL + F5 (depends on what IDE you use, I use Visual Studio Code),
+        and check if your bot works by Logging in and out through using your Telegram Bot, the values should appear in your spreadsheet
